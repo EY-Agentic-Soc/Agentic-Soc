@@ -1,0 +1,27 @@
+{
+  "type": "object",
+  "properties": {
+    "is_suspicious": { 
+      "type": "boolean", 
+      "description": "True if this warrants further escalation/investigation" 
+    },
+    "priority": { 
+      "type": "string", 
+      "enum": ["low", "medium", "high", "critical"] 
+    },
+    "reasoning": { 
+      "type": "string", 
+      "description": "Explanation of why it is or isn't suspicious" 
+    },
+    "key_evidence": { 
+      "type": "array", 
+      "items": { "type": "string" }, 
+      "description": "List of key evidence points or event IDs" 
+    },
+    "next_step": { 
+      "type": "string", 
+      "description": "Recommended next step, e.g., 'investigate_related_cloud_activity'" 
+    }
+  },
+  "required": ["is_suspicious", "priority", "reasoning", "key_evidence", "next_step"]
+}

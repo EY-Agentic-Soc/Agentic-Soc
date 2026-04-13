@@ -1,0 +1,31 @@
+{
+  "type": "object",
+  "properties": {
+    "enrichments": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "observable": { 
+            "type": "string", 
+            "description": "The specific IP, domain, or hash being evaluated (e.g., 'auth-secure365.net')" 
+          },
+          "assessment": { 
+            "type": "string", 
+            "description": "Short label for the threat level, e.g., 'rare_domain', 'malicious_ip', 'benign'" 
+          },
+          "why_suspicious": { 
+            "type": "string", 
+            "description": "Explanation of why it is suspicious and how local context makes it interesting" 
+          },
+          "org_prevalence": {
+            "type": "integer",
+            "description": "How many times this observable has been seen in the organization recently"
+          }
+        },
+        "required": ["observable", "assessment", "why_suspicious", "org_prevalence"]
+      }
+    }
+  },
+  "required": ["enrichments"]
+}
