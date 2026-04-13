@@ -110,7 +110,7 @@ Visual polish is secondary to **usability and information hierarchy**.
 ---
 
 ## Recommended Project Structure
-
+```bash
 src/
 ├── components/
 │   ├── alerts/
@@ -135,7 +135,7 @@ src/
 
 This structure supports modular development and frontend ownership clarity.
 
----
+```
 
 ## Getting Started (Frontend)
 
