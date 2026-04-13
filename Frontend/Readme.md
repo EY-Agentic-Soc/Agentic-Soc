@@ -1,4 +1,4 @@
-cat << 'EOF' > README.md
+
 # Agentic SOC – Frontend (SOC UI)
 
 ## Overview
