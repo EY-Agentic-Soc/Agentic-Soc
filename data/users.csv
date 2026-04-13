@@ -1,0 +1,224 @@
+user_id,user_name,display_name,email,department,role_title,location,privilege_level,mfa_enabled,vpn_enabled,account_status,manager_id,hire_date
+U0001,nikhil.mukherjee,Nikhil Mukherjee,nikhil.mukherjee@northstar.local,HR,HR Analyst,Remote,standard,True,False,active,U0028,2020-04-13
+U0002,reyansh.shetty,Reyansh Shetty,reyansh.shetty@northstar.local,Sales,Sales Executive,Bengaluru,standard,True,False,active,U0084,2025-02-23
+U0003,nikhil.tiwari,Nikhil Tiwari,nikhil.tiwari@northstar.local,Sales,Sales Manager,Delhi,standard,True,False,active,U0036,2019-09-10
+U0004,myra.iyer,Myra Iyer,myra.iyer@northstar.local,Engineering,Software Engineer,Hyderabad,standard,True,True,active,U0012,2023-06-05
+U0005,riya.bose,Riya Bose,riya.bose@northstar.local,Sales,Account Manager,Bengaluru,standard,True,False,active,U0036,2021-01-20
+U0006,madhav.nair,Madhav Nair,madhav.nair@northstar.local,Executive,Director,Bengaluru,standard,True,True,active,U0038,2024-10-30
+U0007,sneha.reddy,Sneha Reddy,sneha.reddy@northstar.local,Sales,Sales Executive,Remote,standard,True,False,active,U0050,2025-08-11
+U0008,kavya.chopra,Kavya Chopra,kavya.chopra@northstar.local,Engineering,Software Engineer,Remote,standard,True,True,active,U0012,2023-05-23
+U0009,karan.patel,Karan Patel,karan.patel@northstar.local,Operations,Warehouse Manager,Bengaluru,standard,False,True,active,U0152,2024-04-17
+U0010,aarav.verma,Aarav Verma,aarav.verma@northstar.local,Engineering,Software Engineer,Mumbai,standard,True,False,active,U0200,2023-07-04
+U0011,yash.rao,Yash Rao,yash.rao@northstar.local,HR,HR Generalist,Mumbai,standard,True,True,active,U0131,2023-03-26
+U0012,vivaan.kumar,Vivaan Kumar,vivaan.kumar@northstar.local,Engineering,SRE,Bengaluru,admin,True,False,active,,2024-06-29
+U0013,kiara.shetty,Kiara Shetty,kiara.shetty@northstar.local,Engineering,Senior Engineer,Bengaluru,standard,True,True,active,U0124,2022-04-18
+U0014,sai.kumar,Sai Kumar,sai.kumar@northstar.local,Finance,Accountant,Hyderabad,standard,True,False,active,U0082,2021-06-13
+U0015,ankit.bose,Ankit Bose,ankit.bose@northstar.local,Sales,Sales Executive,Remote,standard,True,True,active,U0084,2023-11-21
+U0016,farhan.iyer,Farhan Iyer,farhan.iyer@northstar.local,IT,System Administrator,Delhi,admin,True,False,active,U0177,2023-05-31
+U0017,kavya.jain,Kavya Jain,kavya.jain@northstar.local,Operations,Warehouse Manager,Bengaluru,standard,False,True,active,U0152,2019-11-15
+U0018,nandini.chopra,Nandini Chopra,nandini.chopra@northstar.local,Executive,VP,Bengaluru,admin,True,False,active,U0038,2022-04-30
+U0019,arjun.rao,Arjun Rao,arjun.rao@northstar.local,Sales,Account Manager,Bengaluru,standard,True,False,active,U0036,2024-10-14
+U0020,nandini.sharma,Nandini Sharma,nandini.sharma@northstar.local,IT,System Administrator,Bengaluru,admin,True,True,active,U0177,2025-02-04
+U0021,tanya.agarwal,Tanya Agarwal,tanya.agarwal@northstar.local,Engineering,SRE,Remote,admin,True,True,active,U0124,2020-07-26
+U0022,ankit.verma,Ankit Verma,ankit.verma@northstar.local,Executive,VP,Remote,admin,True,True,active,U0043,2022-02-13
+U0023,meera.tiwari,Meera Tiwari,meera.tiwari@northstar.local,Executive,Director,Bengaluru,standard,False,True,active,U0043,2024-02-01
+U0024,nikhil.pillai,Nikhil Pillai,nikhil.pillai@northstar.local,Executive,Director,Bengaluru,standard,False,False,active,U0043,2024-03-01
+U0025,neha.patel,Neha Patel,neha.patel@northstar.local,Operations,Warehouse Manager,Pune,standard,True,False,active,U0061,2020-12-09
+U0026,siddharth.agarwal,Siddharth Agarwal,siddharth.agarwal@northstar.local,Security,SOC Analyst,Pune,admin,True,True,active,U0112,2024-10-22
+U0027,ira.joshi,Ira Joshi,ira.joshi@northstar.local,Engineering,Software Engineer,Delhi,standard,True,False,active,U0072,2020-06-26
+U0028,tanya.mukherjee,Tanya Mukherjee,tanya.mukherjee@northstar.local,HR,HR Generalist,Bengaluru,standard,True,True,active,,2023-01-14
+U0029,siddharth.jain,Siddharth Jain,siddharth.jain@northstar.local,Executive,Director,Pune,standard,True,False,active,U0038,2021-06-28
+U0030,tanya.gupta,Tanya Gupta,tanya.gupta@northstar.local,IT,System Administrator,Delhi,admin,True,False,active,U0147,2020-01-11
+U0031,sneha.yadav,Sneha Yadav,sneha.yadav@northstar.local,Security,Threat Hunter,Pune,admin,True,False,active,U0107,2023-05-16
+U0032,anaya.agarwal,Anaya Agarwal,anaya.agarwal@northstar.local,Security,Threat Hunter,Bengaluru,standard,True,True,active,U0107,2025-02-28
+U0033,aisha.reddy,Aisha Reddy,aisha.reddy@northstar.local,Operations,Warehouse Manager,Mumbai,standard,True,True,active,U0061,2020-12-22
+U0034,siddharth.yadav,Siddharth Yadav,siddharth.yadav@northstar.local,Finance,Payroll Specialist,Bengaluru,standard,True,False,active,U0082,2020-07-17
+U0035,anika.jain,Anika Jain,anika.jain@northstar.local,IT,IT Support,Bengaluru,standard,True,False,active,U0144,2022-02-25
+U0036,vivaan.tiwari,Vivaan Tiwari,vivaan.tiwari@northstar.local,Sales,Account Manager,Bengaluru,standard,True,True,active,,2022-08-18
+U0037,vihaan.tiwari,Vihaan Tiwari,vihaan.tiwari@northstar.local,IT,System Administrator,Bengaluru,admin,True,True,active,U0144,2021-06-25
+U0038,myra.bose,Myra Bose,myra.bose@northstar.local,Executive,VP,Bengaluru,admin,True,False,active,,2019-08-15
+U0039,anaya.nair,Anaya Nair,anaya.nair@northstar.local,Operations,Ops Analyst,Remote,standard,True,False,active,U0152,2020-01-03
+U0040,sneha.iyer,Sneha Iyer,sneha.iyer@northstar.local,Sales,Sales Executive,Bengaluru,standard,True,False,active,U0050,2024-02-28
+U0041,sana.sharma,Sana Sharma,sana.sharma@northstar.local,HR,HR Generalist,Bengaluru,standard,True,False,active,U0131,2021-10-08
+U0042,reyansh.tiwari,Reyansh Tiwari,reyansh.tiwari@northstar.local,HR,HR Generalist,Remote,standard,True,True,active,U0131,2021-03-29
+U0043,varun.singh,Varun Singh,varun.singh@northstar.local,Executive,CFO,Bengaluru,standard,True,True,active,,2019-12-16
+U0044,karan.pillai,Karan Pillai,karan.pillai@northstar.local,Engineering,DevOps Engineer,Mumbai,admin,True,False,active,U0200,2023-03-03
+U0045,ritika.verma,Ritika Verma,ritika.verma@northstar.local,Operations,Ops Analyst,Bengaluru,standard,True,False,active,U0152,2024-01-16
+U0046,siddharth.agarwal2,Siddharth Agarwal,siddharth.agarwal2@northstar.local,HR,HR Analyst,Remote,standard,True,True,active,U0028,2019-09-17
+U0047,akash.tiwari,Akash Tiwari,akash.tiwari@northstar.local,Sales,Account Manager,Bengaluru,standard,True,False,active,,2022-09-28
+U0048,farhan.kumar,Farhan Kumar,farhan.kumar@northstar.local,IT,Network Engineer,Bengaluru,admin,True,True,active,U0147,2022-07-22
+U0049,aman.pillai,Aman Pillai,aman.pillai@northstar.local,Sales,Sales Executive,Bengaluru,standard,False,True,active,U0084,2025-02-14
+U0050,varun.agarwal,Varun Agarwal,varun.agarwal@northstar.local,Sales,Sales Manager,Bengaluru,standard,True,True,active,,2020-06-21
+U0051,anika.iyer,Anika Iyer,anika.iyer@northstar.local,Finance,Finance Analyst,Mumbai,standard,True,True,active,U0118,2020-04-10
+U0052,myra.joshi,Myra Joshi,myra.joshi@northstar.local,Sales,Sales Executive,Hyderabad,standard,True,True,active,U0084,2025-05-12
+U0053,anaya.sharma,Anaya Sharma,anaya.sharma@northstar.local,Engineering,Senior Engineer,Pune,standard,True,True,active,U0200,2020-01-09
+U0054,harsh.jain,Harsh Jain,harsh.jain@northstar.local,Engineering,Software Engineer,Bengaluru,standard,True,True,active,U0012,2020-09-19
+U0055,tanya.jain,Tanya Jain,tanya.jain@northstar.local,Engineering,DevOps Engineer,Bengaluru,admin,True,False,active,U0124,2023-03-03
+U0056,farhan.agarwal,Farhan Agarwal,farhan.agarwal@northstar.local,Sales,Account Manager,Remote,standard,True,False,active,U0084,2021-09-20
+U0057,meera.singh,Meera Singh,meera.singh@northstar.local,Security,Threat Hunter,Bengaluru,standard,True,True,active,U0112,2024-07-13
+U0058,ishaan.patel,Ishaan Patel,ishaan.patel@northstar.local,Engineering,Senior Engineer,Bengaluru,standard,True,False,active,U0072,2020-11-21
+U0059,ishaan.kumar,Ishaan Kumar,ishaan.kumar@northstar.local,Sales,Account Manager,Mumbai,standard,True,True,active,U0050,2023-05-13
+U0060,priya.reddy,Priya Reddy,priya.reddy@northstar.local,Sales,Sales Manager,Delhi,standard,True,True,active,U0050,2023-07-01
+U0061,reyansh.sharma,Reyansh Sharma,reyansh.sharma@northstar.local,Operations,Warehouse Manager,Bengaluru,standard,True,True,active,,2020-03-21
+U0062,krishna.kumar,Krishna Kumar,krishna.kumar@northstar.local,Engineering,Senior Engineer,Bengaluru,standard,True,True,active,U0124,2024-07-19
+U0063,shreya.shetty,Shreya Shetty,shreya.shetty@northstar.local,Sales,Sales Executive,Bengaluru,standard,True,True,active,U0047,2020-11-01
+U0064,kiara.jain,Kiara Jain,kiara.jain@northstar.local,Sales,Sales Manager,Bengaluru,standard,True,True,active,U0047,2023-05-16
+U0065,priya.kapoor,Priya Kapoor,priya.kapoor@northstar.local,Engineering,DevOps Engineer,Mumbai,admin,True,True,active,U0072,2019-11-14
+U0066,sai.tiwari,Sai Tiwari,sai.tiwari@northstar.local,Operations,Warehouse Manager,Remote,standard,True,True,active,U0061,2021-10-17
+U0067,anika.reddy,Anika Reddy,anika.reddy@northstar.local,Operations,Warehouse Manager,Delhi,standard,True,False,active,U0061,2021-01-25
+U0068,varun.kapoor,Varun Kapoor,varun.kapoor@northstar.local,Engineering,SRE,Remote,admin,True,True,active,U0124,2023-07-18
+U0069,zoya.bose,Zoya Bose,zoya.bose@northstar.local,Engineering,SRE,Bengaluru,admin,True,False,active,U0072,2025-01-22
+U0070,karan.kumar,Karan Kumar,karan.kumar@northstar.local,IT,Identity Admin,Pune,admin,True,True,active,U0144,2021-04-01
+U0071,dev.kumar,Dev Kumar,dev.kumar@northstar.local,Sales,Sales Manager,Delhi,standard,True,False,active,U0050,2025-05-12
+U0072,nandini.iyer,Nandini Iyer,nandini.iyer@northstar.local,Engineering,Software Engineer,Bengaluru,standard,True,True,active,,2023-06-05
+U0073,reyansh.nair,Reyansh Nair,reyansh.nair@northstar.local,Sales,Sales Executive,Bengaluru,standard,True,False,active,U0084,2019-12-03
+U0074,nisha.reddy,Nisha Reddy,nisha.reddy@northstar.local,Finance,Payroll Specialist,Pune,standard,True,True,active,U0118,2025-02-10
+U0075,rahul.bose,Rahul Bose,rahul.bose@northstar.local,Finance,Accountant,Remote,standard,True,True,active,U0082,2024-12-17
+U0076,aman.mehta,Aman Mehta,aman.mehta@northstar.local,Finance,Finance Analyst,Hyderabad,standard,True,True,active,U0082,2022-05-31
+U0077,akash.mehta,Akash Mehta,akash.mehta@northstar.local,HR,HR Analyst,Pune,standard,True,True,active,U0131,2022-11-14
+U0078,aisha.joshi,Aisha Joshi,aisha.joshi@northstar.local,Sales,Account Manager,Delhi,standard,True,False,active,U0050,2021-02-26
+U0079,arjun.iyer,Arjun Iyer,arjun.iyer@northstar.local,Engineering,SRE,Mumbai,admin,True,False,active,U0200,2022-11-19
+U0080,yash.shetty,Yash Shetty,yash.shetty@northstar.local,Engineering,Software Engineer,Bengaluru,standard,True,True,active,U0012,2024-04-29
+U0081,pooja.reddy,Pooja Reddy,pooja.reddy@northstar.local,Engineering,DevOps Engineer,Bengaluru,admin,True,True,active,U0012,2024-03-22
+U0082,rohit.joshi,Rohit Joshi,rohit.joshi@northstar.local,Finance,Accountant,Mumbai,standard,True,False,active,,2020-11-29
+U0083,tanya.rao,Tanya Rao,tanya.rao@northstar.local,Finance,Payroll Specialist,Remote,standard,True,True,active,U0118,2024-05-04
+U0084,harsh.jain2,Harsh Jain,harsh.jain2@northstar.local,Sales,Sales Manager,Remote,standard,True,False,active,,2023-06-27
+U0085,myra.iyer2,Myra Iyer,myra.iyer2@northstar.local,Sales,Sales Executive,Mumbai,standard,True,True,active,U0047,2025-03-05
+U0086,anika.nair,Anika Nair,anika.nair@northstar.local,Sales,Sales Executive,Mumbai,standard,True,True,active,U0047,2022-07-01
+U0087,shreya.gupta,Shreya Gupta,shreya.gupta@northstar.local,Engineering,Software Engineer,Hyderabad,standard,True,True,active,U0124,2020-04-01
+U0088,karan.bose,Karan Bose,karan.bose@northstar.local,Finance,Finance Analyst,Delhi,standard,True,True,active,U0082,2024-04-10
+U0089,nikhil.joshi,Nikhil Joshi,nikhil.joshi@northstar.local,HR,HR Generalist,Delhi,standard,True,True,active,U0131,2023-11-24
+U0090,rohan.mehta,Rohan Mehta,rohan.mehta@northstar.local,Sales,Account Manager,Hyderabad,standard,True,False,active,U0047,2020-10-27
+U0091,reyansh.shetty2,Reyansh Shetty,reyansh.shetty2@northstar.local,Sales,Account Manager,Remote,standard,False,True,active,U0036,2020-03-07
+U0092,zoya.sharma,Zoya Sharma,zoya.sharma@northstar.local,Operations,Warehouse Manager,Bengaluru,standard,True,False,active,U0152,2024-09-13
+U0093,yash.singh,Yash Singh,yash.singh@northstar.local,Operations,Warehouse Manager,Bengaluru,standard,True,True,active,U0061,2021-12-13
+U0094,rohan.shetty,Rohan Shetty,rohan.shetty@northstar.local,Finance,Accountant,Hyderabad,standard,True,False,active,U0082,2022-06-27
+U0095,pooja.singh,Pooja Singh,pooja.singh@northstar.local,HR,HR Analyst,Bengaluru,standard,True,False,active,U0028,2019-10-30
+U0096,priya.sharma,Priya Sharma,priya.sharma@northstar.local,IT,Identity Admin,Bengaluru,admin,True,True,active,U0144,2023-06-07
+U0097,rahul.pillai,Rahul Pillai,rahul.pillai@northstar.local,Operations,Warehouse Manager,Bengaluru,standard,True,True,active,U0152,2024-08-11
+U0098,vivaan.iyer,Vivaan Iyer,vivaan.iyer@northstar.local,Operations,Warehouse Manager,Mumbai,standard,True,False,active,U0152,2025-05-14
+U0099,arjun.agarwal,Arjun Agarwal,arjun.agarwal@northstar.local,Sales,Sales Manager,Hyderabad,standard,True,True,active,U0084,2024-09-13
+U0100,rohan.patel,Rohan Patel,rohan.patel@northstar.local,IT,IT Support,Bengaluru,standard,True,True,active,U0147,2020-11-19
+U0101,siddharth.mukherjee,Siddharth Mukherjee,siddharth.mukherjee@northstar.local,IT,System Administrator,Bengaluru,admin,True,True,active,U0177,2021-11-19
+U0102,siddharth.pillai,Siddharth Pillai,siddharth.pillai@northstar.local,Sales,Sales Manager,Remote,standard,False,False,active,U0050,2025-02-05
+U0103,neha.sharma,Neha Sharma,neha.sharma@northstar.local,Finance,Payroll Specialist,Remote,standard,True,False,active,U0118,2025-05-06
+U0104,aarav.reddy,Aarav Reddy,aarav.reddy@northstar.local,Sales,Account Manager,Mumbai,standard,True,True,active,U0036,2023-10-19
+U0105,shreya.gupta2,Shreya Gupta,shreya.gupta2@northstar.local,Executive,CTO,Bengaluru,admin,True,True,active,U0043,2022-07-18
+U0106,kavya.mehta,Kavya Mehta,kavya.mehta@northstar.local,Executive,Director,Delhi,standard,True,True,active,U0043,2023-08-10
+U0107,vivaan.agarwal,Vivaan Agarwal,vivaan.agarwal@northstar.local,Security,Threat Hunter,Remote,standard,True,True,active,,2021-08-03
+U0108,meera.bose,Meera Bose,meera.bose@northstar.local,Engineering,Senior Engineer,Hyderabad,standard,True,True,active,U0072,2022-06-19
+U0109,sana.pillai,Sana Pillai,sana.pillai@northstar.local,Finance,Finance Analyst,Remote,standard,True,False,active,U0082,2020-03-07
+U0110,rohit.pillai,Rohit Pillai,rohit.pillai@northstar.local,Security,Threat Hunter,Bengaluru,standard,True,True,active,U0112,2023-03-07
+U0111,tanya.mukherjee2,Tanya Mukherjee,tanya.mukherjee2@northstar.local,Security,Threat Hunter,Remote,standard,False,False,active,U0107,2025-06-30
+U0112,nikhil.iyer,Nikhil Iyer,nikhil.iyer@northstar.local,Security,Threat Hunter,Hyderabad,standard,True,True,active,,2022-01-03
+U0113,sana.jain,Sana Jain,sana.jain@northstar.local,Engineering,Senior Engineer,Bengaluru,standard,True,True,active,U0200,2023-08-14
+U0114,ishaan.patel2,Ishaan Patel,ishaan.patel2@northstar.local,Engineering,Senior Engineer,Bengaluru,standard,True,True,active,U0072,2020-03-26
+U0115,nandini.agarwal,Nandini Agarwal,nandini.agarwal@northstar.local,Operations,Ops Analyst,Hyderabad,standard,True,True,active,U0152,2023-07-06
+U0116,sai.shetty,Sai Shetty,sai.shetty@northstar.local,Finance,Payroll Specialist,Bengaluru,standard,True,True,active,U0082,2023-11-07
+U0117,rohan.mehta2,Rohan Mehta,rohan.mehta2@northstar.local,Security,Threat Hunter,Hyderabad,standard,True,False,active,U0112,2024-11-12
+U0118,ishaan.reddy,Ishaan Reddy,ishaan.reddy@northstar.local,Finance,Payroll Specialist,Pune,standard,True,False,active,,2024-04-01
+U0119,rahul.bose2,Rahul Bose,rahul.bose2@northstar.local,Sales,Sales Executive,Bengaluru,standard,True,True,active,U0084,2025-07-02
+U0120,kiara.jain2,Kiara Jain,kiara.jain2@northstar.local,Operations,Logistics Coordinator,Bengaluru,standard,True,False,active,U0152,2022-04-10
+U0121,akash.yadav,Akash Yadav,akash.yadav@northstar.local,Security,Threat Hunter,Bengaluru,admin,True,True,active,U0107,2022-02-22
+U0122,kavya.tiwari,Kavya Tiwari,kavya.tiwari@northstar.local,Security,IR Engineer,Remote,admin,True,True,active,U0107,2024-07-23
+U0123,diya.kumar,Diya Kumar,diya.kumar@northstar.local,Engineering,Senior Engineer,Mumbai,standard,True,False,active,U0012,2024-08-09
+U0124,aisha.reddy2,Aisha Reddy,aisha.reddy2@northstar.local,Engineering,Software Engineer,Mumbai,standard,True,True,active,,2020-10-29
+U0125,dev.kumar2,Dev Kumar,dev.kumar2@northstar.local,Security,SOC Analyst,Remote,standard,True,True,active,U0107,2020-12-29
+U0126,sneha.jain,Sneha Jain,sneha.jain@northstar.local,Sales,Account Manager,Pune,standard,True,False,active,U0036,2019-09-04
+U0127,myra.singh,Myra Singh,myra.singh@northstar.local,Engineering,SRE,Bengaluru,admin,True,False,active,U0124,2023-04-27
+U0128,reyansh.jain,Reyansh Jain,reyansh.jain@northstar.local,Sales,Sales Manager,Delhi,standard,True,True,active,U0047,2022-04-09
+U0129,farhan.mukherjee,Farhan Mukherjee,farhan.mukherjee@northstar.local,Sales,Sales Manager,Mumbai,standard,True,True,active,U0084,2019-10-31
+U0130,nisha.sharma,Nisha Sharma,nisha.sharma@northstar.local,Executive,VP,Pune,admin,True,True,active,U0038,2022-11-16
+U0131,abhinav.singh,Abhinav Singh,abhinav.singh@northstar.local,HR,HR Analyst,Bengaluru,standard,True,True,active,,2020-06-04
+U0132,yash.rao2,Yash Rao,yash.rao2@northstar.local,Security,Threat Hunter,Hyderabad,admin,True,True,active,U0112,2022-08-27
+U0133,meera.rao,Meera Rao,meera.rao@northstar.local,Engineering,SRE,Bengaluru,admin,True,True,active,U0012,2021-07-16
+U0134,aisha.gupta,Aisha Gupta,aisha.gupta@northstar.local,IT,Identity Admin,Hyderabad,admin,True,True,active,U0144,2021-02-03
+U0135,zoya.yadav,Zoya Yadav,zoya.yadav@northstar.local,Engineering,Senior Engineer,Remote,standard,True,False,active,U0124,2025-06-08
+U0136,pooja.verma,Pooja Verma,pooja.verma@northstar.local,Engineering,DevOps Engineer,Bengaluru,admin,True,False,active,U0012,2023-09-02
+U0137,ira.iyer,Ira Iyer,ira.iyer@northstar.local,IT,System Administrator,Hyderabad,admin,True,False,active,U0177,2025-03-11
+U0138,sneha.bose,Sneha Bose,sneha.bose@northstar.local,Operations,Ops Analyst,Hyderabad,standard,True,True,active,U0061,2021-01-20
+U0139,pooja.joshi,Pooja Joshi,pooja.joshi@northstar.local,Operations,Warehouse Manager,Remote,standard,True,True,active,U0061,2019-09-20
+U0140,aman.sharma,Aman Sharma,aman.sharma@northstar.local,IT,Network Engineer,Bengaluru,admin,True,False,active,U0177,2020-10-04
+U0141,rohan.mehta3,Rohan Mehta,rohan.mehta3@northstar.local,Operations,Logistics Coordinator,Remote,standard,True,True,active,U0152,2020-08-09
+U0142,vihaan.bose,Vihaan Bose,vihaan.bose@northstar.local,IT,Network Engineer,Pune,admin,True,True,active,U0144,2022-03-08
+U0143,arjun.yadav,Arjun Yadav,arjun.yadav@northstar.local,Sales,Sales Executive,Bengaluru,standard,True,False,active,U0050,2023-10-11
+U0144,nisha.reddy2,Nisha Reddy,nisha.reddy2@northstar.local,IT,Network Engineer,Remote,admin,True,False,active,,2024-03-24
+U0145,pooja.sharma,Pooja Sharma,pooja.sharma@northstar.local,Security,IR Engineer,Delhi,admin,False,True,active,U0112,2020-09-03
+U0146,sneha.rao,Sneha Rao,sneha.rao@northstar.local,Security,IR Engineer,Hyderabad,standard,False,True,active,U0107,2022-02-05
+U0147,atharv.bose,Atharv Bose,atharv.bose@northstar.local,IT,Network Engineer,Remote,admin,True,False,active,,2024-12-15
+U0148,kavya.sharma,Kavya Sharma,kavya.sharma@northstar.local,Engineering,SRE,Bengaluru,admin,True,False,active,U0072,2023-05-09
+U0149,myra.verma,Myra Verma,myra.verma@northstar.local,Sales,Sales Executive,Pune,standard,True,False,active,U0050,2022-07-19
+U0150,ishaan.singh,Ishaan Singh,ishaan.singh@northstar.local,Security,IR Engineer,Remote,standard,True,True,active,U0112,2023-02-11
+U0151,madhav.kumar,Madhav Kumar,madhav.kumar@northstar.local,Operations,Ops Analyst,Bengaluru,standard,True,True,active,U0061,2022-04-21
+U0152,rohit.mukherjee,Rohit Mukherjee,rohit.mukherjee@northstar.local,Operations,Warehouse Manager,Remote,standard,True,True,active,,2022-03-30
+U0153,rohit.iyer,Rohit Iyer,rohit.iyer@northstar.local,Security,SOC Analyst,Pune,admin,True,False,active,U0107,2020-09-05
+U0154,tanya.verma,Tanya Verma,tanya.verma@northstar.local,Security,SOC Analyst,Hyderabad,admin,True,True,active,U0112,2024-08-21
+U0155,saanvi.gupta,Saanvi Gupta,saanvi.gupta@northstar.local,Engineering,Senior Engineer,Bengaluru,standard,True,True,active,U0200,2023-12-05
+U0156,farhan.shetty,Farhan Shetty,farhan.shetty@northstar.local,Executive,Director,Remote,standard,True,True,active,U0043,2020-01-05
+U0157,akash.tiwari2,Akash Tiwari,akash.tiwari2@northstar.local,Engineering,Software Engineer,Remote,standard,True,True,active,U0072,2025-04-05
+U0158,sana.yadav,Sana Yadav,sana.yadav@northstar.local,Sales,Account Manager,Remote,standard,True,True,active,U0036,2023-10-07
+U0159,saanvi.yadav,Saanvi Yadav,saanvi.yadav@northstar.local,Engineering,DevOps Engineer,Mumbai,admin,True,False,active,U0072,2022-12-21
+U0160,ankit.jain,Ankit Jain,ankit.jain@northstar.local,IT,System Administrator,Mumbai,admin,True,False,active,U0144,2025-01-10
+U0161,rohan.rao,Rohan Rao,rohan.rao@northstar.local,Sales,Sales Executive,Hyderabad,standard,True,False,active,U0036,2019-12-20
+U0162,vivaan.patel,Vivaan Patel,vivaan.patel@northstar.local,HR,HR Analyst,Bengaluru,standard,True,False,active,U0131,2022-12-13
+U0163,zoya.joshi,Zoya Joshi,zoya.joshi@northstar.local,Sales,Sales Executive,Bengaluru,standard,True,False,active,U0084,2019-09-22
+U0164,siddharth.patel,Siddharth Patel,siddharth.patel@northstar.local,Operations,Logistics Coordinator,Pune,standard,True,True,active,U0061,2022-11-01
+U0165,vihaan.singh,Vihaan Singh,vihaan.singh@northstar.local,Engineering,DevOps Engineer,Mumbai,admin,True,True,active,U0200,2025-02-22
+U0166,atharv.shetty,Atharv Shetty,atharv.shetty@northstar.local,Engineering,Senior Engineer,Hyderabad,standard,True,True,active,U0072,2021-01-08
+U0167,sai.chopra,Sai Chopra,sai.chopra@northstar.local,Security,SOC Analyst,Mumbai,standard,True,False,active,U0107,2023-01-15
+U0168,akash.iyer,Akash Iyer,akash.iyer@northstar.local,IT,IT Support,Mumbai,standard,True,True,active,U0177,2022-02-26
+U0169,aditya.gupta,Aditya Gupta,aditya.gupta@northstar.local,IT,System Administrator,Mumbai,admin,True,True,active,U0147,2021-10-08
+U0170,diya.shetty,Diya Shetty,diya.shetty@northstar.local,Sales,Account Manager,Remote,standard,True,True,active,U0050,2021-05-15
+U0171,aman.kapoor,Aman Kapoor,aman.kapoor@northstar.local,Operations,Ops Analyst,Bengaluru,standard,True,False,active,U0152,2020-03-26
+U0172,meera.shetty,Meera Shetty,meera.shetty@northstar.local,Engineering,Senior Engineer,Delhi,standard,True,True,active,U0200,2023-08-01
+U0173,varun.chopra,Varun Chopra,varun.chopra@northstar.local,Operations,Ops Analyst,Mumbai,standard,False,True,active,U0152,2022-07-16
+U0174,diya.nair,Diya Nair,diya.nair@northstar.local,Sales,Account Manager,Mumbai,standard,True,False,active,U0036,2023-03-06
+U0175,vihaan.rao,Vihaan Rao,vihaan.rao@northstar.local,IT,Identity Admin,Delhi,admin,True,True,active,U0177,2022-12-01
+U0176,vivaan.singh,Vivaan Singh,vivaan.singh@northstar.local,Operations,Ops Analyst,Remote,standard,True,False,active,U0061,2021-05-04
+U0177,zoya.chopra,Zoya Chopra,zoya.chopra@northstar.local,IT,IT Support,Hyderabad,standard,True,True,active,,2019-11-09
+U0178,kiara.mehta,Kiara Mehta,kiara.mehta@northstar.local,Sales,Sales Executive,Mumbai,standard,True,False,active,U0050,2019-10-27
+U0179,rohan.shetty2,Rohan Shetty,rohan.shetty2@northstar.local,Operations,Warehouse Manager,Pune,standard,True,True,active,U0061,2022-06-22
+U0180,sneha.rao2,Sneha Rao,sneha.rao2@northstar.local,Sales,Sales Manager,Bengaluru,standard,True,True,active,U0050,2022-05-05
+U0181,kiara.rao,Kiara Rao,kiara.rao@northstar.local,Finance,Payroll Specialist,Bengaluru,standard,False,False,active,U0082,2025-06-28
+U0182,zoya.yadav2,Zoya Yadav,zoya.yadav2@northstar.local,Operations,Logistics Coordinator,Pune,standard,True,True,active,U0152,2021-08-27
+U0183,saanvi.tiwari,Saanvi Tiwari,saanvi.tiwari@northstar.local,Sales,Sales Manager,Bengaluru,standard,True,True,active,U0084,2020-02-03
+U0184,karan.mehta,Karan Mehta,karan.mehta@northstar.local,Engineering,DevOps Engineer,Mumbai,admin,True,True,active,U0072,2021-02-07
+U0185,neha.yadav,Neha Yadav,neha.yadav@northstar.local,Engineering,Senior Engineer,Delhi,standard,True,False,active,U0012,2020-11-18
+U0186,ankit.nair,Ankit Nair,ankit.nair@northstar.local,Operations,Warehouse Manager,Delhi,standard,True,False,active,U0152,2025-05-11
+U0187,priya.patel,Priya Patel,priya.patel@northstar.local,Security,SOC Analyst,Bengaluru,standard,True,False,active,U0112,2022-04-03
+U0188,ira.patel,Ira Patel,ira.patel@northstar.local,HR,HR Analyst,Bengaluru,standard,True,False,active,U0028,2022-04-14
+U0189,dev.bose,Dev Bose,dev.bose@northstar.local,IT,System Administrator,Bengaluru,admin,True,False,active,U0147,2025-04-08
+U0190,arjun.tiwari,Arjun Tiwari,arjun.tiwari@northstar.local,Sales,Sales Executive,Bengaluru,standard,True,False,active,U0047,2024-11-26
+U0191,nikhil.chopra,Nikhil Chopra,nikhil.chopra@northstar.local,IT,Network Engineer,Remote,admin,True,False,active,U0177,2019-12-07
+U0192,priya.bose,Priya Bose,priya.bose@northstar.local,IT,Network Engineer,Remote,admin,True,True,active,U0177,2023-01-21
+U0193,saanvi.mukherjee,Saanvi Mukherjee,saanvi.mukherjee@northstar.local,IT,System Administrator,Bengaluru,admin,True,True,active,U0177,2022-12-07
+U0194,akash.patel,Akash Patel,akash.patel@northstar.local,Sales,Account Manager,Pune,standard,True,False,active,U0084,2021-11-16
+U0195,vivaan.singh2,Vivaan Singh,vivaan.singh2@northstar.local,IT,IT Support,Remote,standard,True,True,active,U0177,2023-11-12
+U0196,aisha.singh,Aisha Singh,aisha.singh@northstar.local,Executive,VP,Pune,admin,True,False,active,U0038,2021-06-22
+U0197,nandini.yadav,Nandini Yadav,nandini.yadav@northstar.local,Finance,Finance Analyst,Hyderabad,standard,True,True,active,U0082,2021-12-21
+U0198,nandini.rao,Nandini Rao,nandini.rao@northstar.local,Operations,Logistics Coordinator,Remote,standard,True,False,active,U0061,2022-02-20
+U0199,harsh.yadav,Harsh Yadav,harsh.yadav@northstar.local,Engineering,DevOps Engineer,Mumbai,admin,True,False,active,U0124,2020-03-18
+U0200,sneha.mukherjee,Sneha Mukherjee,sneha.mukherjee@northstar.local,Engineering,SRE,Delhi,admin,True,True,active,,2022-10-17
+U0201,rohan.gupta,Rohan Gupta,rohan.gupta@northstar.local,Finance,Payroll Specialist,Bengaluru,standard,True,False,active,U0082,2024-03-02
+U0202,dev.rao,Dev Rao,dev.rao@northstar.local,Sales,Sales Manager,Pune,standard,True,False,active,U0050,2024-03-19
+U0203,anaya.tiwari,Anaya Tiwari,anaya.tiwari@northstar.local,Engineering,SRE,Bengaluru,admin,False,False,active,U0072,2024-02-13
+U0204,aman.nair,Aman Nair,aman.nair@northstar.local,IT,Identity Admin,Pune,admin,True,False,active,U0144,2024-01-23
+U0205,aditya.kumar,Aditya Kumar,aditya.kumar@northstar.local,Engineering,Software Engineer,Bengaluru,standard,True,False,active,U0124,2024-04-08
+U0206,varun.bose,Varun Bose,varun.bose@northstar.local,Finance,Accountant,Bengaluru,standard,False,True,active,U0118,2022-06-08
+U0207,atharv.agarwal,Atharv Agarwal,atharv.agarwal@northstar.local,IT,Network Engineer,Bengaluru,admin,True,True,active,U0177,2023-12-21
+U0208,akash.nair,Akash Nair,akash.nair@northstar.local,HR,HR Generalist,Remote,standard,True,True,active,U0131,2025-05-27
+U0209,anika.tiwari,Anika Tiwari,anika.tiwari@northstar.local,IT,System Administrator,Mumbai,admin,True,True,active,U0177,2023-05-13
+U0210,akash.verma,Akash Verma,akash.verma@northstar.local,Finance,Finance Analyst,Bengaluru,standard,False,False,active,U0082,2024-09-26
+U0211,kavya.rao,Kavya Rao,kavya.rao@northstar.local,Engineering,SRE,Remote,admin,True,False,active,U0124,2020-03-09
+U0212,akash.chopra,Akash Chopra,akash.chopra@northstar.local,Engineering,SRE,Hyderabad,admin,True,False,active,U0072,2022-10-15
+U0213,saanvi.shetty,Saanvi Shetty,saanvi.shetty@northstar.local,IT,Identity Admin,Hyderabad,admin,True,True,active,U0177,2025-04-26
+U0214,krishna.yadav,Krishna Yadav,krishna.yadav@northstar.local,Security,IR Engineer,Bengaluru,admin,True,True,active,U0112,2019-11-07
+U0215,arjun.kapoor,Arjun Kapoor,arjun.kapoor@northstar.local,HR,HR Generalist,Bengaluru,standard,True,False,active,U0131,2020-01-25
+U0216,rohit.reddy,Rohit Reddy,rohit.reddy@northstar.local,Finance,Payroll Specialist,Remote,standard,True,False,active,U0118,2021-01-13
+U0217,aarav.agarwal,Aarav Agarwal,aarav.agarwal@northstar.local,IT,IT Support,Bengaluru,standard,True,False,active,U0147,2019-12-10
+U0218,sana.tiwari,Sana Tiwari,sana.tiwari@northstar.local,Sales,Sales Manager,Mumbai,standard,True,True,active,U0047,2022-01-04
+U0219,karan.kumar2,Karan Kumar,karan.kumar2@northstar.local,Sales,Sales Manager,Delhi,standard,True,False,active,U0050,2022-03-15
+U0220,neha.reddy,Neha Reddy,neha.reddy@northstar.local,Operations,Ops Analyst,Bengaluru,standard,True,True,active,U0061,2025-05-15
+U9001,svc_backup,Backup Service,svc_backup@northstar.local,IT,Service Account,Remote,admin,False,False,active,,2024-07-11
+U9002,svc_build,Build Service,svc_build@northstar.local,Engineering,Service Account,Remote,admin,False,False,active,,2024-09-05
+U9003,svc_sync,Directory Sync,svc_sync@northstar.local,IT,Service Account,Remote,admin,False,False,active,,2024-11-21
